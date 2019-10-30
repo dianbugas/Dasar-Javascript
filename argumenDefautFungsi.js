@@ -8,6 +8,7 @@ function cetakPesan(nama, bahasa = 'id') {
 var nama = 'Bambang';
 cetakPesan(nama);
 
+//latihan
 function cetakPesan(nama, bahasa = 'id') {
     var pesan = 'Selamat datang, ' + nama;
     if (bahasa == 'en') {
